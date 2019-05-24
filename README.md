@@ -1,2 +1,2 @@
-# myfistrepository
-Saya pertama kali upload rpository di github
+# RedHawk
+Saya pertama kali upload repository di github
